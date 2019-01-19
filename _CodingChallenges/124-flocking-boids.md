@@ -59,6 +59,6 @@ contributions:
   - title: "Flocking - 1000triangles"
       author:
       name: "Seo junekyo"
-      url: "https://1000triangle.com"
+      url: "www.1000triangle.com"
 
 In this coding challenge, I create a flocking simulation in JavaScript based on Craig Reynolds "boids" algorithm.
